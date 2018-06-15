@@ -1,2 +1,4 @@
-# 1024
-种子地址直接发送至小米远程下载
+# 使用方法
+* pip3 install requestium
+* 在 `download.py` 中修改相关配置
+* python3 download.py
